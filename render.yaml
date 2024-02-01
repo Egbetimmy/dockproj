@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: dproj
+    env: aspnetcore
+    buildCommand: dotnet publish -c Release -o /app
+    startCommand: dotnet dproj.dll
