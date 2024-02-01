@@ -32,3 +32,14 @@ C:\Users\Support\Desktop\class_work\dproj\obj\Debug\net7.0\refint\dproj.dll
 C:\Users\Support\Desktop\class_work\dproj\obj\Debug\net7.0\dproj.pdb
 C:\Users\Support\Desktop\class_work\dproj\obj\Debug\net7.0\dproj.genruntimeconfig.cache
 C:\Users\Support\Desktop\class_work\dproj\obj\Debug\net7.0\ref\dproj.dll
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\dproj.csproj.AssemblyReference.cache
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\dproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\dproj.AssemblyInfoInputs.cache
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\dproj.AssemblyInfo.cs
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\dproj.csproj.CoreCompileInputs.cache
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\dproj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\dproj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\dproj.sourcelink.json
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\dproj.dll
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\refint\dproj.dll
+C:\Users\Support\Desktop\dockproj\obj\Debug\net7.0\dproj.pdb
