@@ -1,5 +1,5 @@
 # Use a specific version of the SDK
-FROM mcr.microsoft.com/dotnet/sdk:7.0.300 AS build
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 
 # Set the working directory
 WORKDIR /src
