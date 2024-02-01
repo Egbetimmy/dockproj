@@ -26,5 +26,7 @@ COPY --from=publish /app/publish .
 RUN apt-get update \
     && apt-get install -y liblttng-ust0 \
     && dotnet dev-certs https --trust
+EXPOSE 80
+EXPOSE 443
 
 ENTRYPOINT ["dotnet", "dproj.dll"]
