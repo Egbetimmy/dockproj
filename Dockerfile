@@ -21,4 +21,10 @@ RUN dotnet publish "./dproj.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:U
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+
+# Install the ASP.NET Core HTTPS development certificate
+RUN apt-get update \
+    && apt-get install -y liblttng-ust0 \
+    && dotnet dev-certs https --trust
+
 ENTRYPOINT ["dotnet", "dproj.dll"]
